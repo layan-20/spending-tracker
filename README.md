@@ -1,5 +1,6 @@
-markdown# Spending Tracker
+Spending Tracker
 
+## markdown
 A small Python tool that reads a list of transactions, automatically sorts each one into a category (groceries, gas, rent, etc.), totals the spending per category, and charts where the money went.
 
 I built this because I started covering my own rent and bills and wanted a clear answer to "where is my money actually going?"
